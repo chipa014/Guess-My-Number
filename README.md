@@ -17,3 +17,5 @@ You can reset the game at any point.
 The history bar is an extra feature I created myself - it wasn't in the task.
 It resulted in a very awkward HTML/CSS.
 At the moment of writing I'm just learning JavaScript though, so that's okay.
+
+Initial HTML/CSS by Jonas Schmedtmann.
