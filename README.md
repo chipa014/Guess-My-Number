@@ -7,6 +7,7 @@ Instruction:
 2. Open index.html in your preferred browser.
 
 Functionality:
+
 Once you guess, the message on the right tells you whether your guess was above, below or exactly the hidden number.
 A history bar on the left can help you monitor the guesses you've already made.
 Your score is displayed on the right. The fewer guesses you make, the higher your score is.
